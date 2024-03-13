@@ -10,7 +10,7 @@
 7. git clone https://github.com/HarisAfzal7/echelon_scripts_updated.git
 
 8. vagrant up
-# a window of ubuntu will be open with a user of vagrant enter password "vagrant"
+# A window of ubuntu will be open with a user of vagrant enter the password "vagrant"
 9. password: vagrant
    
 #open a terminal inside the new vitrual machine(ubuntu)
