@@ -1,4 +1,4 @@
-# you can simple do it in your host machine follow the steps from 10 to 23
+# You can simple do it in your host machine follow the steps from 10 to 23
 # or if you want to test on the virtual machine you can follow the steps from 1 to 23
 
 1. sudo apt install vagrant
@@ -10,7 +10,7 @@
 7. git clone https://github.com/HarisAfzal7/echelon_scripts_updated.git
 
 8. vagrant up
-# a window of ubuntu will be open enter password "vagrant"
+# a window of ubuntu will be open with a user of vagrant enter password "vagrant"
 9. password: vagrant
    
 #open a terminal inside the new vitrual machine(ubuntu)
