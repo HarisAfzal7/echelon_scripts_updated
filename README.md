@@ -1,3 +1,6 @@
+# you can simple do it in your host machine follow the steps from 10 to 23
+# or if you want to test on the virtual machine you can follow the steps from 1 to 23
+
 1. sudo apt install vagrant
 2. sudo apt install virtualbox
 3. mkdir boxes
