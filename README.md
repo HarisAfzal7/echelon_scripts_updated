@@ -29,7 +29,8 @@
 21. execute "ssh -T git@github.com" command
 22. type "yes" and enter
 
-now
+#now
+
 22. cd /code
 23. ./run2.sh
 
