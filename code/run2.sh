@@ -9,9 +9,9 @@ mkdir $(pwd)/build
 ./install_qt_linux.sh
 
 ./install_gazebo_and_px4.sh
-cd PX4-Autopilot
-make px4_sitl gazebo
-cd ../
+#cd PX4-Autopilot
+#make px4_sitl gazebo
+#cd ../
 
 ./install_docker.sh
 
